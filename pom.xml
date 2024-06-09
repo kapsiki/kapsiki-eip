@@ -7,7 +7,7 @@
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kapsiki-eip</name>
-	<description>Integration framework for Kapsiki applications</description>
+	<description>Integration framework for kapsiki applications</description>
 	<properties>
 		<java.version>17</java.version>
 		<openmrs.watcher.version>4.0.0</openmrs.watcher.version>
